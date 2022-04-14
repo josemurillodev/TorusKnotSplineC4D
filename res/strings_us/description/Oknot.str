@@ -1,0 +1,15 @@
+STRINGTABLE Oknot {
+
+    Oknot                               "Torus Knot Generator";
+
+    KNOT_PARAM_RADIUS                   "Radius";
+    KNOT_PARAM_TUBULAR                  "Tubular segments";
+    KNOT_PARAM_P                        "P";
+    KNOT_PARAM_Q                        "Q";
+
+    KNOT_CUBIC_INTERPOLATION            "Cubic interpolation";
+    KNOT_CLOSE_SPLINE                   "Close spline";
+
+    KNOT_POINT_COUNT                    "Point count";
+    
+}
