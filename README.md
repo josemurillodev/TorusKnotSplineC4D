@@ -1,6 +1,6 @@
 # Torus Knot Spline Cinema4D Plugin
 
-**Create torus knot splines in Cinema4D (R.19)**
+**Create torus knot splines in Cinema4D (R.19-25)**
 
 * [Installation](#installation)
 * [Screenshots](#screenshots)
